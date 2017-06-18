@@ -1,9 +1,0 @@
-C:\Git\Eleven37\SimpleShopScheduler\SimpleShopScheduler\bin\Debug\netcoreapp1.1\SimpleShopScheduler.deps.json
-C:\Git\Eleven37\SimpleShopScheduler\SimpleShopScheduler\bin\Debug\netcoreapp1.1\SimpleShopScheduler.runtimeconfig.json
-C:\Git\Eleven37\SimpleShopScheduler\SimpleShopScheduler\bin\Debug\netcoreapp1.1\SimpleShopScheduler.runtimeconfig.dev.json
-C:\Git\Eleven37\SimpleShopScheduler\SimpleShopScheduler\bin\Debug\netcoreapp1.1\SimpleShopScheduler.dll
-C:\Git\Eleven37\SimpleShopScheduler\SimpleShopScheduler\bin\Debug\netcoreapp1.1\SimpleShopScheduler.pdb
-C:\Git\Eleven37\SimpleShopScheduler\SimpleShopScheduler\obj\Debug\netcoreapp1.1\SimpleShopScheduler.csprojResolveAssemblyReference.cache
-C:\Git\Eleven37\SimpleShopScheduler\SimpleShopScheduler\obj\Debug\netcoreapp1.1\SimpleShopScheduler.AssemblyInfo.cs
-C:\Git\Eleven37\SimpleShopScheduler\SimpleShopScheduler\obj\Debug\netcoreapp1.1\SimpleShopScheduler.dll
-C:\Git\Eleven37\SimpleShopScheduler\SimpleShopScheduler\obj\Debug\netcoreapp1.1\SimpleShopScheduler.pdb
